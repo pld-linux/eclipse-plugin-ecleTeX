@@ -1,14 +1,13 @@
 Summary:	ecleTeX - plugin for Eclipse
 Summary(pl):	ecleTeX - wtyczka do ¶rodowiska Eclipse
 Name:		eclipse-plugin-ecleTeX
-
 Version:	0.0.4
 Release:	1
 License:	BSD
 Group:		Development/Languages
 Source0:	http://dl.sourceforge.net/etex/ecletex.%{version}.zip
 # Source0-md5:	9c8da13bbcbe35914a8932d1af78b8da
-URL:		http://etex.sf.net/
+URL:		http://etex.sourceforge.net/
 BuildRequires:	unzip
 Requires:	eclipse >= 3.0
 BuildArch:	noarch
@@ -31,9 +30,6 @@ ps, przegl±darkê Bibtexa i prost± przegl±darkê DVI.
 
 %prep
 %setup -q -c
-
-%build
-
 
 %install
 rm -rf $RPM_BUILD_ROOT
