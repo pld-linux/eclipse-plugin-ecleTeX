@@ -17,16 +17,16 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_eclipsedir  	%{_libdir}/eclipse
 
 %description
-ecleTeX is a Latex environment plugin for the Eclipse platform. It
-currently supports Latex project types, a mulltilanguage spellchecker,
-code highlighting, code completion, Build engines for latex bibtex pdf
-and ps a Bibtex view and a basic DVI viewer
+ecleTeX is a LaTeX environment plugin for the Eclipse platform. It
+currently supports LaTeX project types, a multilanguage spellchecker,
+code highlighting, code completion, Build engines for LaTeX, bibtex,
+PDF and PS, a Bibtex view and a basic DVI viewer.
 
 %description -l pl
-ecleTeX jest wtyczk± ¶rodowiska Latex dla platformy Eclipse. Obecnie
-wspiera projekty Latexa, wielojêzykowy spellchecker, pod¶wietlanie
-sk³adni, dope³nianie kodu, silniki budowania dla latex bibtex pdf i
-ps, przegl±darkê Bibtexa i prost± przegl±darkê DVI.
+ecleTeX jest wtyczk± ¶rodowiska LaTeX dla platformy Eclipse. Obecnie
+obs³uguje projekty LaTeXa, sprawdzanie pisowni w wielu jêzykach,
+pod¶wietlanie sk³adni, dope³nianie kodu, silniki budowania dla LaTeXa,
+bibtexa, PDF i PS, przegl±darkê Bibtexa i prost± przegl±darkê DVI.
 
 %prep
 %setup -q -c
