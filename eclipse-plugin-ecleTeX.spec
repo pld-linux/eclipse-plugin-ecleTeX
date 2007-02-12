@@ -1,5 +1,5 @@
 Summary:	ecleTeX - plugin for Eclipse
-Summary(pl.UTF-8):   ecleTeX - wtyczka do środowiska Eclipse
+Summary(pl.UTF-8):	ecleTeX - wtyczka do środowiska Eclipse
 Name:		eclipse-plugin-ecleTeX
 Version:	0.0.4
 Release:	1
