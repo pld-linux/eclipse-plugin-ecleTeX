@@ -1,5 +1,5 @@
 Summary:	ecleTeX - plugin for Eclipse
-Summary(pl):	ecleTeX - wtyczka do ¶rodowiska Eclipse
+Summary(pl.UTF-8):   ecleTeX - wtyczka do Å›rodowiska Eclipse
 Name:		eclipse-plugin-ecleTeX
 Version:	0.0.4
 Release:	1
@@ -22,11 +22,11 @@ currently supports LaTeX project types, a multilanguage spellchecker,
 code highlighting, code completion, Build engines for LaTeX, bibtex,
 PDF and PS, a Bibtex view and a basic DVI viewer.
 
-%description -l pl
-ecleTeX jest wtyczk± ¶rodowiska LaTeX dla platformy Eclipse. Obecnie
-obs³uguje projekty LaTeXa, sprawdzanie pisowni w wielu jêzykach,
-pod¶wietlanie sk³adni, dope³nianie kodu, silniki budowania dla LaTeXa,
-bibtexa, PDF i PS, przegl±darkê Bibtexa i prost± przegl±darkê DVI.
+%description -l pl.UTF-8
+ecleTeX jest wtyczkÄ… Å›rodowiska LaTeX dla platformy Eclipse. Obecnie
+obsÅ‚uguje projekty LaTeXa, sprawdzanie pisowni w wielu jÄ™zykach,
+podÅ›wietlanie skÅ‚adni, dopeÅ‚nianie kodu, silniki budowania dla LaTeXa,
+bibtexa, PDF i PS, przeglÄ…darkÄ™ Bibtexa i prostÄ… przeglÄ…darkÄ™ DVI.
 
 %prep
 %setup -q -c
